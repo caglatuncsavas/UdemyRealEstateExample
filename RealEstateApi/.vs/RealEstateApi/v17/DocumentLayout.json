@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UdemyRestApi\\RealEstateApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\migrations\\20240422144645_descriptioninmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\migrations\\20240422144645_descriptioninmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|c:\\udemyrestapi\\realestateapi\\realestateapi\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3A8C75-5FB3-47D9-A825-B2E0DF501AEF}|RealEstateApi\\RealEstateApi.csproj|solutionrelative:realestateapi\\context\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Models\\Property.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Models\\Property.cs",
+              "RelativeToolTip": "RealEstateApi\\Models\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:56:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Models\\User.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Models\\User.cs",
+              "RelativeToolTip": "RealEstateApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:55:28.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "RealEstateApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:52:36.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240422144645_DescriptionInModel.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Migrations\\20240422144645_DescriptionInModel.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Migrations\\20240422144645_DescriptionInModel.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Migrations\\20240422144645_DescriptionInModel.cs",
+              "RelativeToolTip": "RealEstateApi\\Migrations\\20240422144645_DescriptionInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:47:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Context\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Context\\ApiDbContext.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Context\\ApiDbContext.cs",
+              "RelativeToolTip": "RealEstateApi\\Context\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:33:30.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Models\\Category.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Models\\Category.cs",
+              "RelativeToolTip": "RealEstateApi\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:44:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateApi\\Program.cs",
+              "ToolTip": "C:\\UdemyRestApi\\RealEstateApi\\RealEstateApi\\Program.cs",
+              "RelativeToolTip": "RealEstateApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:16:37.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1511,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
